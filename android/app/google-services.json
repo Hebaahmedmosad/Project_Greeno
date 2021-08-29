@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "251415372998",
+    "project_id": "greeno-6b1db",
+    "storage_bucket": "greeno-6b1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251415372998:android:747b2349a0e46d1f6e63c7",
+        "android_client_info": {
+          "package_name": "com.iti.greeno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251415372998-gp71p7lsr7i56kl7g4ahjcmshnqg9uji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRDJUMNWqpV-30A9Qevbre28XfwgHyuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251415372998-gp71p7lsr7i56kl7g4ahjcmshnqg9uji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251415372998-kr5or217knud0safr2gdcnpl853k5sv5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iti.greeno"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
